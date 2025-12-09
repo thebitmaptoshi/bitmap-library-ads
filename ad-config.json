@@ -5,7 +5,6 @@
   "closeButtonDelay": 10
   "audioSettings": {
     "startMuted": false,
-    "autoMuteAfterDelay": 20,
-    "initialVolume": 35
+    "autoMuteAfterDelay": 20
   }
 }
