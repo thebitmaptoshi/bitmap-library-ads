@@ -6,7 +6,7 @@
   "audioSettings": {
     "startMuted": false
   },
-  "caption": "⏳ this is a test, thi is only a test",
+  "caption": "⏳ this is a test, this is only a test",
     "captionStyle": {
     "top": "50%",
     "bottom": "auto",
@@ -16,7 +16,7 @@
     "width": "300px",
     "maxHeight": "none",
     "fontSize": "28px",
-    "background": "rgba(0, 0, 0, 0.8)"
+    "background": "rgba(0, 0, 0, 0.8)",
     "fontFamily": "'Great Vibes', cursive",
     "WebkitBackgroundClip": "text",
     "WebkitTextFillColor": "transparent",
