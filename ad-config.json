@@ -7,10 +7,17 @@
     "startMuted": false
   },
   "caption": "⏳ this is a test, thi is only a test",
-  "captionStyle": {
-    "fontFamily": "'Great Vibes', cursive",
+    "captionStyle": {
+    "top": "50%",
+    "bottom": "auto",
+    "left": "50%",
+    "right": "auto",
+    "transform": "translate(-50%, -50%)",
+    "width": "300px",
+    "maxHeight": "none",
     "fontSize": "28px",
-    "background": "linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3)",
+    "background": "rgba(0, 0, 0, 0.8)"
+    "fontFamily": "'Great Vibes', cursive",
     "WebkitBackgroundClip": "text",
     "WebkitTextFillColor": "transparent",
     "backgroundClip": "text",
