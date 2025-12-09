@@ -1,12 +1,12 @@
 {
-  "embedFormat": "tiktok",
-  "contentUrl": "https://www.tiktok.com/@duckadventure12/video/7548863941078748471",
+  "embedFormat": "facebook",
+  "contentUrl": "https://www.facebook.com/61556817655861/videos/2911823572541495/?__so__=video_home_video_not_found&__rv__=video_home_www_loe_popular_videos",
   "totalDuration": 30,
   "closeButtonDelay": 10,
   "audioSettings": {
     "startMuted": false
   },
-  "caption": "⏳ this is a test, this is only a test",
+  "caption": "are we there yet?",
     "captionStyle": {
     "top": "50%",
     "bottom": "auto",
