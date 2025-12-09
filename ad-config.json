@@ -4,7 +4,6 @@
   "totalDuration": 30,
   "closeButtonDelay": 10
   "audioSettings": {
-    "startMuted": false,
-    "autoMuteAfterDelay": 20
+    "startMuted": false
   }
 }
