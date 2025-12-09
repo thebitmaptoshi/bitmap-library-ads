@@ -1,6 +1,6 @@
 {
-  "embedFormat": "vimeo",
-  "contentUrl": "https://vimeo.com/90509568",
+  "embedFormat": "twitch",
+  "contentUrl": "https://www.twitch.tv/monstercat",
   "totalDuration": 30,
   "closeButtonDelay": 10,
   "audioSettings": {
