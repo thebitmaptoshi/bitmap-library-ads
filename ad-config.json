@@ -3,6 +3,5 @@
   "contentUrl": "https://www.youtube.com/watch?v=BP9TJJAXkmU",
   "totalDuration": 30,
   "closeButtonDelay": 10
-  "audioSettings": {"startMuted": false,
-    "autoMuteAfterDelay": 20}
+  "audioSettings": {"startMuted": false}
 }
