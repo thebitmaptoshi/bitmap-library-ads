@@ -4,6 +4,16 @@
   "totalDuration": 30,
   "closeButtonDelay": 10,
   "audioSettings": {
-  "startMuted":false},
-  "caption": "🟧First Ordinals Ad🟧"
+    "startMuted": false
+  },
+  "caption": "⏳ this is a test, thi is only a test",
+  "captionStyle": {
+    "fontFamily": "'Great Vibes', cursive",
+    "fontSize": "28px",
+    "background": "linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3)",
+    "WebkitBackgroundClip": "text",
+    "WebkitTextFillColor": "transparent",
+    "backgroundClip": "text",
+    "color": "transparent"
+  }
 }
