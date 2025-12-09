@@ -1,6 +1,11 @@
 {
   "embedFormat": "youtube",
-  "contentUrl": "https://youtu.be/o7Vb-FDbbOM?si=TdvWoXZvNtby3zO6",
+  "contentUrl": "https://www.youtube.com/watch?v=BP9TJJAXkmU",
   "totalDuration": 30,
   "closeButtonDelay": 10
+  "audioSettings": {
+    "startMuted": false,
+    "autoMuteAfterDelay": 20,
+    "initialVolume": 35
+  }
 }
