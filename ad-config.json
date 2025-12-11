@@ -1,32 +1,35 @@
 {
-  "platform": "vimeo",
-  "contentType": "embed",
-  "embedFormat": "vimeo",
-  "contentUrl": "123456789",
-  "totalDuration": 35,
-  "closeButtonDelay": 12,
-  "caption": "🎬 Vimeo - Premium Video Content",
-  "captionStyle": {
-    "position": "absolute",
-    "bottom": "0",
-    "left": "0",
-    "right": "0",
-    "background": "linear-gradient(to top, rgba(31, 77, 97, 0.8), transparent)",
-    "color": "#00d9ff",
-    "padding": "18px 25px",
-    "fontSize": "15px",
-    "fontWeight": "700",
-    "textAlign": "center",
-    "letterSpacing": "1.5px",
-    "textShadow": "0 0 15px rgba(0, 217, 255, 0.6)",
-    "fontFamily": "'Orbitron', sans-serif",
-    "lineHeight": "1.5",
-    "zIndex": "100",
-    "maxHeight": "90px",
-    "overflow": "auto"
+  "platform": "Vimeo",
+  "description": "Professional video hosting with high-quality streams",
+  "config": {
+    "contentType": "embed",
+    "embedFormat": "vimeo",
+    "contentUrl": "https://vimeo.com/76979871",
+    "caption": "🎬 Professional video content - Stunning cinematography",
+    "captionStyle": {
+      "position": "absolute",
+      "top": "10px",
+      "left": "0",
+      "right": "0",
+      "background": "linear-gradient(to bottom, rgba(25, 135, 237, 0.9), transparent)",
+      "color": "#ffffff",
+      "padding": "20px",
+      "fontSize": "16px",
+      "fontWeight": "600",
+      "textAlign": "center",
+      "letterSpacing": "0.5px",
+      "fontFamily": "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"
+    },
+    "totalDuration": 35,
+    "closeButtonDelay": 12,
+    "audioSettings": {
+      "startMuted": true,
+      "allowUnmute": true
+    },
+    "styling": {
+      "containerClass": "vimeo-ad-container",
+      "customCSS": ".vimeo-ad-container { border: 3px solid #1ab7ea; border-radius: 8px; box-shadow: 0 8px 32px rgba(26, 183, 234, 0.2), inset 0 0 15px rgba(26, 183, 234, 0.1); background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%); overflow: hidden; animation: vimeo-pulse 4s ease-in-out infinite; } @keyframes vimeo-pulse { 0%, 100% { box-shadow: 0 8px 32px rgba(26, 183, 234, 0.2); } 50% { box-shadow: 0 8px 48px rgba(26, 183, 234, 0.4); } }"
+    }
   },
-  "audioSettings": {
-    "startMuted": true,
-    "autoplay": true
-  }
+  "testingNotes": "✅ Copy entire 'config' object and replace AD_CONFIG in your HTML"
 }
