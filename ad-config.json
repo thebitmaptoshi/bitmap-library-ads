@@ -1,12 +1,12 @@
 {
   "contentType": "embed",
-  "embedFormat": "vimeo",
-  "contentUrl": "https://vimeo.com/76979871",
-  "caption": "Professional video hosting with beautiful cinematography",
-  "totalDuration": 35,
-  "closeButtonDelay": 12,
+  "embedFormat": "twitch",
+  "contentUrl": "https://twitch.tv/videos/1234567890",
+  "caption": "🎮 Legendary gaming moments streamed live",
+  "totalDuration": 40,
+  "closeButtonDelay": 15,
   "audioSettings": {
-    "startMuted": true,
+    "startMuted": false,
     "allowUnmute": true
   }
 }
