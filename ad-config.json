@@ -1,12 +1,12 @@
 {
   "contentType": "embed",
-  "embedFormat": "odysee",
-  "contentUrl": "https://odysee.com/@sketchandjam:1/EvilOni:6",
-  "caption": "⛓️ Blockchain-based video platform",
-  "totalDuration": 38,
-  "closeButtonDelay": 14,
+  "embedFormat": "dailymotion",
+  "contentUrl": "https://www.dailymotion.com/video/x8o94u4",
+  "caption": "🌍 Global video community content",
+  "totalDuration": 33,
+  "closeButtonDelay": 11,
   "audioSettings": {
-    "startMuted": false,
+    "startMuted": true,
     "allowUnmute": true
   }
 }
