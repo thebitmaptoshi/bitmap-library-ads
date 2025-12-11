@@ -1,12 +1,17 @@
 {
   "contentType": "embed",
-  "embedFormat": "rumble",
-  "contentUrl": "https://rumble.com/v72lsfg-ep-220-candace-vs.-tpusa-and-why-i-dont-care.html",
-  "caption": "🔴 Independent video platform content",
-  "totalDuration": 30,
-  "closeButtonDelay": 18,
-  "audioSettings": {
-    "startMuted": false,
-    "allowUnmute": true
-  }
+  "embedFormat": "image",
+  "contentUrl": "https://cdn.esawebb.org/archives/images/screen/potm2510a.jpg",
+  "caption": "welcome to my world",
+  "captionStyle": {
+    "background": "linear-gradient(to bottom, rgba(255, 255, 255, 0.35), rgba(255, 165, 80, 0.35))",
+    "fontSize": "18px",
+    "fontFamily": "'Orbitron', sans-serif",
+    "fontWeight": "600",
+    "letterSpacing": "2px",
+    "color": "#ffffff",
+    "textShadow": "0 0 10px rgba(0, 0, 0, 0.8)"
+  },
+  "totalDuration": 45,
+  "closeButtonDelay": 15
 }
