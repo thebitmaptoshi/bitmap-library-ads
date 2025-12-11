@@ -1,12 +1,12 @@
 {
   "contentType": "embed",
-  "embedFormat": "bitchute",
-  "contentUrl": "https://www.bitchute.com/video/wHY9KpLKrlOs",
-  "caption": "📹 Creator-friendly video content",
-  "totalDuration": 50,
-  "closeButtonDelay": 20,
+  "embedFormat": "odysee",
+  "contentUrl": "https://odysee.com/@sketchandjam:1/EvilOni:6",
+  "caption": "⛓️ Blockchain-based video platform",
+  "totalDuration": 38,
+  "closeButtonDelay": 14,
   "audioSettings": {
-    "startMuted": true,
+    "startMuted": false,
     "allowUnmute": true
   }
 }
