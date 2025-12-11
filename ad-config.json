@@ -1,12 +1,12 @@
 {
   "contentType": "embed",
-  "embedFormat": "tiktok",
-  "contentUrl": "https://www.tiktok.com/@mranatolyfun/video/7575271774208773407",
-  "caption": "✨ Trending content from TikTok",
-  "totalDuration": 30,
-  "closeButtonDelay": 8,
+  "embedFormat": "rumble",
+  "contentUrl": "https://rumble.com/v72kf7i-demon-slayer-the-hinokami-chronicles-chapter-3-death-match-in-asakusa.html?e9s=src_v1_cvp",
+  "caption": "🔴 Independent video platform content",
+  "totalDuration": 45,
+  "closeButtonDelay": 18,
   "audioSettings": {
-    "startMuted": true,
+    "startMuted": false,
     "allowUnmute": true
   }
 }
