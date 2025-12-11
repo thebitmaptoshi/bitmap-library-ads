@@ -25,11 +25,5 @@
     "audioSettings": {
       "startMuted": true,
       "allowUnmute": true
-    },
-    "styling": {
-      "containerClass": "vimeo-ad-container",
-      "customCSS": ".vimeo-ad-container { border: 3px solid #1ab7ea; border-radius: 8px; box-shadow: 0 8px 32px rgba(26, 183, 234, 0.2), inset 0 0 15px rgba(26, 183, 234, 0.1); background: linear-gradient(135deg, #1a1a2e 0%, #0f3460 100%); overflow: hidden; animation: vimeo-pulse 4s ease-in-out infinite; } @keyframes vimeo-pulse { 0%, 100% { box-shadow: 0 8px 32px rgba(26, 183, 234, 0.2); } 50% { box-shadow: 0 8px 48px rgba(26, 183, 234, 0.4); } }"
     }
-  },
-  "testingNotes": "✅ Copy entire 'config' object and replace AD_CONFIG in your HTML"
 }
