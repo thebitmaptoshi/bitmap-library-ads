@@ -1,29 +1,12 @@
 {
-  "platform": "Vimeo",
-  "description": "Professional video hosting with high-quality streams",
-  "config": {
-    "contentType": "embed",
-    "embedFormat": "vimeo",
-    "contentUrl": "https://vimeo.com/76979871",
-    "caption": "🎬 Professional video content - Stunning cinematography",
-    "captionStyle": {
-      "position": "absolute",
-      "top": "10px",
-      "left": "0",
-      "right": "0",
-      "background": "linear-gradient(to bottom, rgba(25, 135, 237, 0.9), transparent)",
-      "color": "#ffffff",
-      "padding": "20px",
-      "fontSize": "16px",
-      "fontWeight": "600",
-      "textAlign": "center",
-      "letterSpacing": "0.5px",
-      "fontFamily": "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"
-    },
-    "totalDuration": 35,
-    "closeButtonDelay": 12,
-    "audioSettings": {
-      "startMuted": true,
-      "allowUnmute": true
-    }
+  "contentType": "embed",
+  "embedFormat": "vimeo",
+  "contentUrl": "https://vimeo.com/76979871",
+  "caption": "Professional video hosting with beautiful cinematography",
+  "totalDuration": 35,
+  "closeButtonDelay": 12,
+  "audioSettings": {
+    "startMuted": true,
+    "allowUnmute": true
+  }
 }
