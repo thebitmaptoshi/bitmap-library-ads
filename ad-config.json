@@ -1,12 +1,12 @@
 {
   "contentType": "embed",
-  "embedFormat": "twitch",
-  "contentUrl": "https://www.twitch.tv/videos/2638784636",
-  "caption": "🎮 Legendary gaming moments streamed live",
-  "totalDuration": 40,
-  "closeButtonDelay": 15,
+  "embedFormat": "tiktok",
+  "contentUrl": "https://www.tiktok.com/@tiktok/video/7106335405748907309",
+  "caption": "✨ Trending content from TikTok",
+  "totalDuration": 30,
+  "closeButtonDelay": 8,
   "audioSettings": {
-    "startMuted": false,
+    "startMuted": true,
     "allowUnmute": true
   }
 }
