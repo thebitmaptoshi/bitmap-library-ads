@@ -1,8 +1,8 @@
 {
   "contentType": "embed",
-  "embedFormat": "image",
-  "contentUrl": "https://cdn.esawebb.org/archives/images/screen/potm2510a.jpg",
-  "caption": "welcome to my world",
+  "embedFormat": "youtube",
+  "contentUrl": "https://www.youtube.com/watch?v=BP9TJJAXkmU",
+  "caption": "🟧 Bitcoin's first Ad",
   "captionStyle": {
     "background": "linear-gradient(to bottom, rgba(255, 255, 255, 0.35), rgba(255, 165, 80, 0.35))",
     "fontSize": "18px",
@@ -12,6 +12,6 @@
     "color": "#ffffff",
     "textShadow": "0 0 10px rgba(0, 0, 0, 0.8)"
   },
-  "totalDuration": 45,
-  "closeButtonDelay": 15
+  "totalDuration": 31,
+  "closeButtonDelay": 10
 }
