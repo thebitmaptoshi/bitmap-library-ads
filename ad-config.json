@@ -5,13 +5,13 @@
   "caption": "🟧 Bitcoin's First Ad - your ad here",
   "captionStyle": {
     "background": "linear-gradient(to bottom, rgba(255, 255, 255, 0.35), rgba(255, 165, 80, 0.35))",
-    "fontSize": "18px",
+    "fontSize": "20px",
     "fontFamily": "'Orbitron', sans-serif",
     "fontWeight": "600",
     "letterSpacing": "2px",
-    "color": "#000000",
+    "color": "#8fd129",
     "textShadow": "0 0 10px rgba(0, 0, 0, 0.8)"
   },
-  "totalDuration": 31,
+  "totalDuration": 30.8,
   "closeButtonDelay": 10
 }
