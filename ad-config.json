@@ -9,9 +9,9 @@
     "fontFamily": "'Orbitron', sans-serif",
     "fontWeight": "600",
     "letterSpacing": "2px",
-    "color": "#2650ef",
+    "color": "000000",
     "textShadow": "0 0 10px rgba(0, 0, 0, 0.8)"
   },
-  "totalDuration": 30.8,
+  "totalDuration": 30.5,
   "closeButtonDelay": 10
 }
